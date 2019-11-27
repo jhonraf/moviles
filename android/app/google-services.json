@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825252307426",
+    "firebase_url": "https://control-classroom-a0f53.firebaseio.com",
+    "project_id": "control-classroom-a0f53",
+    "storage_bucket": "control-classroom-a0f53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825252307426:android:3573f3dea0888dfd3799bb",
+        "android_client_info": {
+          "package_name": "com.example.control_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825252307426-h8a1o293gr90odh74aefffl2qv4aiu3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7D8I6Pa1j15-GDjb9dhRl5DzEIXrzK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825252307426-h8a1o293gr90odh74aefffl2qv4aiu3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
